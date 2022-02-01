@@ -1,2 +1,2 @@
 # personal-site
-Learning a developing my website from scratch.
+Learning to develop my personal site from scratch.
